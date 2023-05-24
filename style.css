@@ -1,0 +1,103 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+
+    background-color: rgb(150, 147, 147);
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    line-height: 90px;
+    height: 90px;
+    
+}
+
+
+main {
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    width: 900px;
+    margin: auto;
+    border-radius: 5px;
+    line-height: 20px;
+    margin-left: 30px;
+}
+
+
+h1 {
+    display: inline-block;
+    font-size: 30px;
+
+}
+
+.button-blu {
+    background-color: rgb(24, 113, 165);
+    color: rgb(255, 255, 255);
+    border-color: rgb(24, 113, 165);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 7px;
+    padding: 3px 7px;
+
+}
+
+.button-arancione {
+    background-color: rgb(197, 131, 55);
+    color: rgb(255, 255, 255);
+    border-color: rgb(197, 131, 55);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 7px;
+    padding: 3px 7px;
+
+}
+
+.button-verde {
+    background-color: rgb(17, 206, 111);
+    color: rgb(255, 255, 255);
+    border-color: rgb(17, 206, 111);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 7px;
+    padding: 3px 7px;
+
+}
+section {
+    padding: 15px;
+    margin-left: 30px;
+}
+
+main {
+    padding: 25px;
+    margin: auto;
+}
+
+.div-3 {
+    padding: 10px 40px;
+}
+.cerchio {
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(59, 218, 165);
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    line-height: 18px;
+}
+
+p {
+    line-height: 40px; 
+    display: inline;
+
+}
+
+h3 {
+    font-size: 25px;
+}
